@@ -943,7 +943,7 @@
     :isPartOf <https://health-lifesci.schema.org> .
 
 :Ophthalmologic a :MedicalSpecialty ;
-    rdfs:label "Ophthalmologic" ;
+    rdfs:label "Ophthalmic" ;
     rdfs:comment "A specific branch of medical science that pertains to the diagnosis and treatment of disorders of the eye and its associated visual structures, including medical and surgical interventions." ;
     rdfs:subClassOf :MedicalBusiness ;
     :isPartOf <https://health-lifesci.schema.org> .
